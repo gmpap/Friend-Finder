@@ -1,0 +1,25 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Friend finder app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmpap/Friend-Finder.git"
+  },
+  "author": "George Pap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmpap/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/gmpap/Friend-Finder#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
